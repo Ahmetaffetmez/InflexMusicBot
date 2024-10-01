@@ -29,6 +29,8 @@ from config import BANNED_USERS, lyrical
     filters.command(
         [
             "oynat",
+            "veke",
+            "vveke",
             "vplay",
             "voynat",
             "cplay",
